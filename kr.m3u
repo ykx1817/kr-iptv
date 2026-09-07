@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/ykx1817/kr-iptv@main/kr.xml,https://raw.githubusercontent.com/ykx1817/kr-iptv/main/kr.xml"
+#EXTM3U url-tvg="https://cdn.jsdelivr.net/gh/ykx1817/kr-iptv@main/kr.xml" x-tvg-url="https://cdn.jsdelivr.net/gh/ykx1817/kr-iptv@main/kr.xml"
 #EXTINF:-1 tvg-id="C00593.tving" tvg-name="YTN" tvg-logo="https://pjytv.760515.xyz/logo/YTN.png" group-title="한국-종합편성",YTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://backup.760515.xyz/playlist/YTN-playlist.m3u8

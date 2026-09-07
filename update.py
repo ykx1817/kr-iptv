@@ -74,7 +74,7 @@ def generate_m3u(name_to_id: dict):
     channels = json.loads(raw_json)
 
     m3u_lines = [
-        f'#EXTM3U x-tvg-url="{EPG_JSDELIVR_URL},{EPG_RAW_URL}"'
+        f'#EXTM3U url-tvg="{EPG_JSDELIVR_URL}" x-tvg-url="{EPG_JSDELIVR_URL}"'
     ]
 
     matched_count = 0
