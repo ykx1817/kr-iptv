@@ -1,0 +1,371 @@
+#EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/ykx1817/kr-iptv@main/kr.xml,https://raw.githubusercontent.com/ykx1817/kr-iptv/main/kr.xml"
+#EXTINF:-1 tvg-id="C00593.tving" tvg-name="YTN" tvg-logo="https://pjytv.760515.xyz/logo/YTN.png" group-title="한국-종합편성",YTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/YTN-playlist.m3u8
+#EXTINF:-1 tvg-id="C01101.tving" tvg-name="YTN2" tvg-logo="https://pjytv.760515.xyz/logo/YTN2.png" group-title="한국-종합편성",YTN2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/YTN2-playlist.m3u8
+#EXTINF:-1 tvg-id="C15347.tving" tvg-name="YTN사이언스" tvg-logo="https://pjytv.760515.xyz/logo/YTN사이언스.png" group-title="한국-종합편성",YTN사이언스
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/YTN사이언스-playlist.m3u8
+#EXTINF:-1 tvg-id="C01723.tving" tvg-name="연합뉴스TV" tvg-logo="https://pjytv.760515.xyz/logo/연합뉴스TV.png" group-title="한국-종합편성",연합뉴스TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/연합뉴스TV-playlist.m3u8
+#EXTINF:-1 tvg-id="C01582.tving" tvg-name="JTBC" tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png" group-title="한국-종합편성",JTBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/JTBC-playlist.m3u8
+#EXTINF:-1 tvg-id="C15741.tving" tvg-name="JTBC2" tvg-logo="https://pjytv.760515.xyz/logo/JTBC2.png" group-title="한국-종합편성",JTBC2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/JTBC2-playlist.m3u8
+#EXTINF:-1 tvg-id="C22041.tving" tvg-name="JTBC4" tvg-logo="https://pjytv.760515.xyz/logo/JTBC4.png" group-title="한국-종합편성",JTBC4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/JTBC4-playlist.m3u8
+#EXTINF:-1 tvg-id="C00551.tving" tvg-name="tvN" tvg-logo="https://pjytv.760515.xyz/logo/tvN.png" group-title="한국-종합편성",tvN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/tvN-playlist.m3u8
+#EXTINF:-1 tvg-id="C01141.tving" tvg-name="tvN SHOW" tvg-logo="https://pjytv.760515.xyz/logo/tvN SHOW.png" group-title="한국-종합편성",tvN SHOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/tvN SHOW-playlist.m3u8
+#EXTINF:-1 tvg-id="C01143.tving" tvg-name="tvN DRAMA" tvg-logo="https://pjytv.760515.xyz/logo/tvN DRAMA.png" group-title="한국-종합편성",tvN DRAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/tvN DRAMA-playlist.m3u8
+#EXTINF:-1 tvg-id="C51258.tving" tvg-name="tvN STORY" tvg-logo="https://pjytv.760515.xyz/logo/tvN STORY.png" group-title="한국-종합편성",tvN STORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/tvN STORY-playlist.m3u8
+#EXTINF:-1 tvg-id="C01583.tving" tvg-name="채널A" tvg-logo="https://pjytv.760515.xyz/logo/채널A.png" group-title="한국-종합편성",채널A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/채널A-playlist.m3u8
+#EXTINF:-1 tvg-id="C17141.tving" tvg-name="채널A플러스" tvg-logo="https://pjytv.760515.xyz/logo/채널A플러스.png" group-title="한국-종합편성",채널A플러스
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/채널A플러스-playlist.m3u8
+#EXTINF:-1 tvg-id="C01581.tving" tvg-name="TV CHOSUN" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN.png" group-title="한국-종합편성",TV CHOSUN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/TV CHOSUN-playlist.m3u8
+#EXTINF:-1 tvg-id="C00585.tving" tvg-name="TV CHOSUN 2" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN 2.png" group-title="한국-종합편성",TV CHOSUN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/TV CHOSUN 2-playlist.m3u8
+#EXTINF:-1 tvg-id="C00579.tving" tvg-name="Mnet" tvg-logo="https://pjytv.760515.xyz/logo/Mnet.png" group-title="한국-종합편성",Mnet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/Mnet-playlist.m3u8
+#EXTINF:-1 tvg-id="C00708.tving" tvg-name="MBN" tvg-logo="https://pjytv.760515.xyz/logo/MBN.png" group-title="한국-종합편성",MBN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/MBN-playlist.m3u8
+#EXTINF:-1 tvg-id="C17142.tving" tvg-name="MBN 플러스" tvg-logo="https://pjytv.760515.xyz/logo/MBN 플러스.png" group-title="한국-종합편성",MBN 플러스
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/MBN 플러스-playlist.m3u8
+#EXTINF:-1 tvg-id="C00611.tving" tvg-name="LIFETIME" tvg-logo="https://pjytv.760515.xyz/logo/LIFETIME.png" group-title="한국-종합편성",LIFETIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/LIFETIME-playlist.m3u8
+#EXTINF:-1 tvg-id="C00544.tving" tvg-name="중화TV" tvg-logo="https://pjytv.760515.xyz/logo/중화TV.png" group-title="한국-종합편성",중화TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/중화TV-playlist.m3u8
+#EXTINF:-1 tvg-id="C17341.tving" tvg-name="히스토리" tvg-logo="https://pjytv.760515.xyz/logo/히스토리.png" group-title="한국-종합편성",히스토리
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/히스토리-playlist.m3u8
+#EXTINF:-1 tvg-id="C00772.tving" tvg-name="EBS1" tvg-logo="https://pjytv.760515.xyz/logo/EBS1.png" group-title="한국-종합편성",EBS1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/EBS1-playlist.m3u8
+#EXTINF:-1 tvg-id="C51263.tving" tvg-name="국회방송(NATV)" tvg-logo="https://pjytv.760515.xyz/logo/국회방송(NATV).png" group-title="한국-종합편성",국회방송(NATV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/국회방송(NATV)-playlist.m3u8
+#EXTINF:-1 tvg-id="C05441.tving" tvg-name="ANIBOX" tvg-logo="https://pjytv.760515.xyz/logo/ANIBOX.png" group-title="한국-종합편성",ANIBOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/ANIBOX-playlist.m3u8
+#EXTINF:-1 tvg-id="C04042.tving" tvg-name="애니맥스" tvg-logo="https://pjytv.760515.xyz/logo/애니맥스.png" group-title="한국-종합편성",애니맥스
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/애니맥스-playlist.m3u8
+#EXTINF:-1 tvg-id="C06941.tving" tvg-name="투니버스" tvg-logo="https://pjytv.760515.xyz/logo/투니버스.png" group-title="한국-종합편성",투니버스
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/투니버스-playlist.m3u8
+#EXTINF:-1 tvg-id="501.lg" tvg-name="KBS1" tvg-logo="https://backup.760515.xyz/logo/KBS1.png" group-title="한국-지상파",KBS1
+https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
+#EXTINF:-1 tvg-id="181.lg" tvg-name="KBS2" tvg-logo="https://backup.760515.xyz/logo/KBS2.png" group-title="한국-지상파",KBS2
+https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
+#EXTINF:-1 tvg-id="617.lg" tvg-name="KBS드라마" tvg-logo="https://backup.760515.xyz/logo/KBS드라마.png" group-title="한국-지상파",KBS드라마
+https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4OTExOTU1fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=XrPRnCk3-decT3rB4y7z-87fTKkrLkdaxcyk75PvXPswzye7U3JuozDqOXNPTqfTtMv1meAXmederAhvaeLm3ImXSZ2zA3H36KDkYY9g8PehejfPPtJGYx1i16Xwk6K6P9lG5oALPjVAu24fhxhkm4yXcg7fsPgRXqrT-YDDS9En3hFrKVO~YKVvHcSBRM25cn5N7TKvwQKaf7lDGN6PaPOa-W7EELvABDy-CRuQ1jmYFWV3Wa3WH5HldnpODRDdlqUwT5hSvaDA2PFbE64oVe00q1gHVudZujH~d3iOlv543Z8upkLwh1cjOvKmyT13WHduK4H4SPqHeIiBCXTFqQ__
+#EXTINF:-1 tvg-id="619.lg" tvg-name="KBS조이" tvg-logo="https://backup.760515.xyz/logo/KBS조이.png" group-title="한국-지상파",KBS조이
+https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODg5MTE5NTZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Vbt~dGh-RIxs2l4haYstxdFKt3OTDteU~fzvkKpCgK-sD71-U1H0fV4SCcObMIqlzFv5MCVh72vtt7g7fSzBwP7Osprlkjz4RsR08blLgxYOa0MDN-H1DOCROZw0NsSS~YUP77acxsF5Cqp2P1jrt98INWiwnLgof7VT6ehqO1co4Lb0z83VmmkgHloIvTH8nayG9FyelvKL4E4~NNVXJZXX0aEFlJGjgBMFNuuCcQyeXx9uvdH5GN30hRgbD5B3TKWj65baMp5290P~~fO5m4xxgicP1bgVttLffBmniTmw8Cr3FzSTsy-5hp9bk-35jR0365cWH7sJUIcFJp4z9Q__
+#EXTINF:-1 tvg-id="608.lg" tvg-name="KBS키즈" tvg-logo="https://backup.760515.xyz/logo/KBS키즈.png" group-title="한국-지상파",KBS키즈
+https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODkxMTkzMX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=FHBsvOyq98oSsb9z21O~R3SfxE5mqEvuKJEvBymxAdacwXZxptWsTe3URoR46CsE2fz-lRfZ8nQ-k~fFcgZJsf-r6PMi~0ZZTXpdePzhMIv~6eXK1NZc4Z6ed~ThZId03TqJ57tb-Qu0XS67iGzd8IKqr8Hm-~s4N8ZmRo-0z6zmgsL6tiGR3c9NwjF3o5EUl82wxD3avBYwzaScX2Tv5Fes-z9NOvfMa8gaAVgYVMLphOdO~87WK-giLm1qCvssfiTbTF3Z7k48oBAGlum4zxoe-AMkR6fpn3fOLy-XExwwMh-A1H-QW4uloTSJyXsEGKVeAOhDupkLR65oZtwuiA__
+#EXTINF:-1 tvg-id="582.lg" tvg-name="KBS LIFE" tvg-logo="https://backup.760515.xyz/logo/KBS LIFE.png" group-title="한국-지상파",KBS LIFE
+https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODkxMTk1Nn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=TAa-DcjY79r-9VfkZ1inHC8Fc3PCyR5dyBC5oYWw6qu2dFfPCIKpm73feTvz2w~uZ8J56lD7qU4V1GQAwtmFwaFYVtDlDoe5lxGapg1Z-CfiGPvPueONsB6YoNmdNvTgF-EAJRinvXPtKJyihDCjETufg0UWTFX~sUzwPzywhP579gLjd6YoGTCDYegDIGijW0RMD4EVuN1Jl1mFNfliGvroa5PYxkBoQbR2QWAaFbnVNSXBjVTJF8fXwN1K5TBWDtWnB7TglJpjTGEdWOAzrSemtD0iQudNQ7SJwESdVKTY8ergzwjJYSPvkIWANKLKuKMzPWHCfyWMTSfsUghWfg__
+#EXTINF:-1 tvg-id="620.lg" tvg-name="KBS Story" tvg-logo="https://backup.760515.xyz/logo/KBS Story.png" group-title="한국-지상파",KBS Story
+https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODkxMTk1OH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=PI9akd1FYEtH3fTVxpqYy4B1Gd~4FJO3~j4BbPLwFWJ8yNdkVsdxtpr-QEf5C-LVs41Jki028EnVxkJQLnO5COafR8GMmED8GHLl6dIYtwEVn7HMP3AEhBXtCsSdmRQC1JIr6~WuN~XuCw6~shMWdM0HPipypRqUptU830-8dejrDGdobVM4pt97Xj6OysvRbiL3iBJqZ~XqO90keMzKX06dHOynTdB8IvsTvIqt4UcEoY37u4293tgKgqEG-SJofQW7pEBZAVJWVUfBIx6q3pp5UBuSkgAma8-BX0-ajlwgR6uBGlVgnGte-OyeNd6SZFodhzzjrWjq6pkT55QhpQ__
+#EXTINF:-1 tvg-id="케이블 KBS WORLD.daum" tvg-name="KBS WORLD" tvg-logo="https://backup.760515.xyz/logo/KBS WORLD.png" group-title="한국-지상파",KBS WORLD
+https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4ODkxMTk2MH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=EvSax8nhv53qiTIzwbBsvXPV8mXPDFVeTrxVuJ8JUo7FUIYZwDNZK46obRSvQCEcaQioWAYkfhZgiMmEPkBvbIjz4Ij-nQcwXTNtoIR6~Bmft7mX3R9c9gcZv7swL-46P29kvv3UpzddEm2dsqkvgBvN7ys2ae7IfMsRHR9Cqjn86spp8IqPSSScQ38ydVl2X0dQAUjyOq3Wl5XCMWmV1c~298VZPQPGMuxC~4Eaaoa~EHIRNrqsnDDzH0N1JLeJ5xNKno10KG6WQdYJSj1XTP8oy1EfN51I1LnOxaO7K4StUeMJqIKHkThdwf0t8GIIAxDELgN9M9gFKLf2~f0wDg__
+#EXTINF:-1 tvg-id="KBS뉴스" tvg-name="KBS뉴스" tvg-logo="https://backup.760515.xyz/logo/KBS뉴스.png" group-title="한국-지상파",KBS뉴스
+https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4OTExOTUwfX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=CUeLCUsUvYzeBPLHqRmClrITROJ2znltEorAIkcDVCvOHVfX0N~aSVzXoG3x-GjRzxQFa-KGpmGXKdjrtuuABBfVyZGtJEh4CEjU8ZTZMYWfUVgLJlCWeEuEJ~TBVHiviRZfcaqt~j~F60lzGkIP-ay1Vm3W9SMXDlaCrxEhtidbCETHAwsbBqE2-vL0bPJ986bEzD0cxuifMyo0-EEv4C~xNyK94-xcUSNoF258UWlc-roXd8KfjssULZRGRj4aQkrivGXlZeJDh4eKFUcYuXYwiKBeqpY~XUrRcm~W-TUscKG4xi3FPZxmj09JntLrF6z18O6WKu6nt5lkMM9iuA__
+#EXTINF:-1 tvg-id="504.lg" tvg-name="SBS" tvg-logo="https://backup.760515.xyz/logo/SBS.png" group-title="한국-지상파",SBS
+https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODg3NjA4MDIsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjNjYjkyNTIwLTkxNmYtNDM2Yy05YTZlLTNjN2I1NmNiMTgwMyIsImlhdCI6MTc4ODc1MzYwMn0.fogBp_wghYu6XqlVbBhfOsTmv7JPiThtMf8vpKHomuA
+#EXTINF:-1 tvg-id="612.lg" tvg-name="SBS플러스" tvg-logo="https://backup.760515.xyz/logo/SBS플러스.png" group-title="한국-지상파",SBS플러스
+https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODg3NjA4MDUsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIxNDFjOTg5Ni01MzRiLTRhODQtOGU3NS0wZDNhMTZiYmI2ZmYiLCJpYXQiOjE3ODg3NTM2MDV9.qVszh1RjoK-oI7Jvi4SswNrsPgwFzqkLW6GWTeDVdkI
+#EXTINF:-1 tvg-id="615.lg" tvg-name="SBS퍼니" tvg-logo="https://backup.760515.xyz/logo/SBS퍼니.png" group-title="한국-지상파",SBS퍼니
+https://tvlive.sbs.co.kr/sbsetvpc/sbsetv1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODg3NjA4MTIsInBhdGgiOiIvc2JzZXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImU5YjZmOGZkLTMxMGYtNGFhZi04YWUyLWFkYzZkNjFjMjc1YSIsImlhdCI6MTc4ODc1MzYxMn0.-MPHEh0WVPiUMzZR44LJB5JglRP--yuNOGAKt2ZUoaQ
+#EXTINF:-1 tvg-id="739.lg" tvg-name="SBS LIFE" tvg-logo="https://backup.760515.xyz/logo/SBS LIFE.png" group-title="한국-지상파",SBS LIFE
+https://tvlive.sbs.co.kr/sbsfil/sbsfil1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODg3NjA4MTYsInBhdGgiOiIvc2JzZmlsMS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6Ijc5OTlmZjI4LTNkMmMtNGNkZC1iMDkyLWNjMjc3ZGRkMjg2OSIsImlhdCI6MTc4ODc1MzYxNn0.QlonkiAh-0VF70PaIzr9CD39BpxgwYI8Pa0FZPv9ly8
+#EXTINF:-1 tvg-id="SBS KPOP" tvg-name="SBS KPOP" tvg-logo="https://backup.760515.xyz/logo/SBS KPOP.png" group-title="한국-지상파",SBS KPOP
+https://tvlive.sbs.co.kr/sbskpop/sbskpop1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODg3NjA4MjksInBhdGgiOiIvc2Jza3BvcDEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI0NWIyOGIyNS02YjZiLTQ4ODgtODU0MC1mZWFiNzJjNDA3MmMiLCJpYXQiOjE3ODg3NTM2Mjl9.eaHLb_rj_5628sUZmxWkvipisvVxkVoSQBtZwYrD-KY
+#EXTINF:-1 tvg-id="614.lg" tvg-name="SBS골프" tvg-logo="https://backup.760515.xyz/logo/SBS골프.png" group-title="한국-지상파",SBS골프
+https://tvlive.sbs.co.kr/sbsgolf/sbsgolf1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODg3NjA4MjMsInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzMTJkOTU4YS04N2U5LTRkZjYtYmUyOS1lZDk1ZjVhMTMzNWIiLCJpYXQiOjE3ODg3NTM2MjN9.NAfyTVW5mKMISvbFGEJOVkUGj06hPJxYKC_XKXsh0Gk
+#EXTINF:-1 tvg-id="635.lg" tvg-name="SBS Golf2" tvg-logo="https://backup.760515.xyz/logo/SBS Golf2.png" group-title="한국-지상파",SBS Golf2
+https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf21.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODg3NjA4MjYsInBhdGgiOiIvc2JzZ29sZjIxLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiZjIzOWMyYTYtMzE5Yy00MmZjLWE0ZmUtOWNlZDZlMDUzZGJjIiwiaWF0IjoxNzg4NzUzNjI2fQ.EHn_XzSZgxiJ4aal09zHfgZ6g-6M_zT441PDipsdGqE
+#EXTINF:-1 tvg-id="613.lg" tvg-name="SBS스포츠" tvg-logo="https://backup.760515.xyz/logo/SBS스포츠.png" group-title="한국-지상파",SBS스포츠
+https://tvlive.sbs.co.kr/sbsespn/sbsespn1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODg3NjA4MTksInBhdGgiOiIvc2JzZXNwbjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzY2E4NDZkOS00M2VjLTRkYWItYTQwNC1jM2MyZDQ5Y2M3OWUiLCJpYXQiOjE3ODg3NTM2MTl9.MCeqt-u0inNWDeiCOp6EpIl-I2yygBLa-zDJ4-LK2u0
+#EXTINF:-1 tvg-id="616.lg" tvg-name="SBS Biz" tvg-logo="https://backup.760515.xyz/logo/SBS Biz.png" group-title="한국-지상파",SBS Biz
+https://tvlive.sbs.co.kr/sbscnbc/sbscnbc1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODg3NjA4MDksInBhdGgiOiIvc2JzY25iYzEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJjMjg5ZmY5Ni1hM2RhLTQwMWYtOGE5OS00ODA5Y2VkYTc1YjkiLCJpYXQiOjE3ODg3NTM2MDl9.bVcQhibAp3yPSaHeruxR7YtpIgxjgqqGT4WLLtQG828
+#EXTINF:-1 tvg-id="503.lg" tvg-name="MBC" tvg-logo="https://backup.760515.xyz/logo/MBC.png" group-title="한국-지상파",MBC
+https://backup.760515.xyz/playlist/MBC-playlist.m3u8
+#EXTINF:-1 tvg-id="621.lg" tvg-name="MBC드라마넷" tvg-logo="https://backup.760515.xyz/logo/MBC드라마넷.png" group-title="한국-지상파",MBC드라마넷
+https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6771EA15737234B4BB48251A30610C44756632252E06923C31D052aA16143A2661aE63013FE20543C099339137b961A815157CE6A8997B0144DED6669D771076B4E1A8ED94F1F3D7866CE961A019A2621A48236A9E3AFE8AD443D8D637D227628378CF670A29279AAA1A0F262FFEF45B7DA25BAEA481C19B07A9942611188300&v=3
+#EXTINF:-1 tvg-id="626.lg" tvg-name="MBC에브리원" tvg-logo="https://backup.760515.xyz/logo/MBC에브리원.png" group-title="한국-지상파",MBC에브리원
+https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6F31EB1473583484A54CA5BD3291FC4845B830D5F20AF2B03B40C6aF7601375612a5B37539127A46F01F334153bFE1A3C39C33C723FF6805227C362644D6ED96318DFF406A2CFABACA6FB7B7B07DE3D110AFCF67D52AC9C24588A132B8D92D76F325F41DEE8639653A4A47CA25473F1224C0E969FD84E52C932D8B612E14A47F&v=3
+#EXTINF:-1 tvg-id="624.lg" tvg-name="MBC M" tvg-logo="https://backup.760515.xyz/logo/MBC M.png" group-title="한국-지상파",MBC M
+https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=6C41461E33F331042F4435B63AD19748E5B03015D70EE23E3860C2aC667A370646a433AA3282234AB0163E215Bb791F094803323C6176C99968BE2436EF27FA380ED1BF9E4EAFB4614DE7CD4410444A9F2DE67E206171D96DE8424984A6F196FCA9D933C7D872A84886DC37774EB7134&v=3
+#EXTINF:-1 tvg-id="623.lg" tvg-name="MBC ON" tvg-logo="https://backup.760515.xyz/logo/MBC ON.png" group-title="한국-지상파",MBC ON
+https://mbconottsd.imbc.com/plus_mbcon_sd/_definst_/mbcon_sd.stream/chunklist.m3u8?_lsu_sa_=6BE1401343043C44554BF51B36817B4DA50434A5330A223F30805Ca006C437B65Fa0538F30E26F4A903F3831C3bD413B152625FF6B62A32FD5428C9F891D2F5DFCA9C9E5478A9321C2910F65653DA95EB38074B2CDFD0680078B58C79EF1FF93B6CF2E351A61C5AD5BC72227FD65C4E483A126A738DDB2E3F9212340F801CA98&v=3
+#EXTINF:-1 tvg-id="611.lg" tvg-name="MBCNET" tvg-logo="https://backup.760515.xyz/logo/MBCNET.png" group-title="한국-지상파",MBCNET
+https://m-mbcnetlive.imbc.com/mbcnet_onair/_definst_/mbcnet_500k.stream/chunklist.m3u8?_lsu_sa_=6721C719F33D3934404495B83A614747850E3275240792123EA0CDa276FC30A610aBB3263DA22E4840C035E1F1bAA1095F56CEB0276FE48CEF34797865A6F2C1D36D08571AEB3B11DB3095CD8E692D4CCF3C371A2B40E936C05F52220B23E43A7A6D150F2B7AE6F0E8F14EF3F627A1EF8F191BACB7CB930AAE2F243459E4CFD2&v=3
+#EXTINF:-1 tvg-id="601.lg" tvg-name="아리랑TV" group-title="한국-기타",아리랑TV
+https://epg.pw/stream/f71b00bffdc25476502479870351e7f801879a9b7bbce6bc77332b7f8b0dbd7a.m3u8
+#EXTINF:-1 tvg-id="420.sk" tvg-name="TBSTV" group-title="한국-기타",TBSTV
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ABN" tvg-name="ABN" tvg-logo="https://backup.760515.xyz/logo/ABN.png" group-title="한국-기타",ABN
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-id="농협TV" tvg-name="농협TV" tvg-logo="https://backup.760515.xyz/logo/농협TV.png" group-title="한국-기타",농협TV
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 tvg-id="678.lg" tvg-name="복지TV" group-title="한국-기타",복지TV
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+#EXTINF:-1 tvg-id="177.lg" tvg-name="국민방송" tvg-logo="https://backup.760515.xyz/logo/국민방송.png" group-title="한국-기타",국민방송
+https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="문화유산채널" tvg-name="문화유산채널" tvg-logo="https://backup.760515.xyz/logo/문화유산채널.png" group-title="한국-기타",문화유산채널
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
+#EXTINF:-1 tvg-id="179.lg" tvg-name="방송대학TV" tvg-logo="https://backup.760515.xyz/logo/방송대학TV.png" group-title="한국-기타",방송대학TV
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="C00772.tving" tvg-name="EBS1" tvg-logo="https://backup.760515.xyz/logo/EBS1.png" group-title="한국-기타",EBS1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="506.lg" tvg-name="EBS2" tvg-logo="https://backup.760515.xyz/logo/EBS2.png" group-title="한국-기타",EBS2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="172.lg" tvg-name="EBS+1" tvg-logo="https://backup.760515.xyz/logo/EBS+1.png" group-title="한국-기타",EBS+1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="173.lg" tvg-name="EBS+2" tvg-logo="https://backup.760515.xyz/logo/EBS+2.png" group-title="한국-기타",EBS+2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="768.lg" tvg-name="EBS English" tvg-logo="https://backup.760515.xyz/logo/EBS English.png" group-title="한국-기타",EBS English
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="한국영화1" tvg-name="한국영화1" group-title="한국-영화",한국영화1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 tvg-id="한국영화2" tvg-name="한국영화2" group-title="한국-영화",한국영화2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 tvg-id="한국영화3" tvg-name="한국영화3" group-title="한국-영화",한국영화3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://backup.760515.xyz/logo/CCTV-1 综合.png" group-title="中国-央视",CCTV1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://backup.760515.xyz/logo/CCTV-2 财经.png" group-title="中国-央视",CCTV2
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://backup.760515.xyz/logo/CCTV-3 综艺.png" group-title="中国-央视",CCTV3
+http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://backup.760515.xyz/logo/CCTV-4 中文国际.png" group-title="中国-央视",CCTV4
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="CCTV5" tvg-logo="https://backup.760515.xyz/logo/CCTV-5 体育.png" group-title="中国-央视",CCTV5
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://backup.760515.xyz/logo/CCTV-5+ 体育赛事.png" group-title="中国-央视",CCTV5+
+http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGnwf5LlUK1sOxu7M-hjgi3R9oKv6wjXPvchazZKvzBKT_OKeMMhW9ZZxC5QJMEcXF2xc4Q2eeOyCGTcN6esKiQLlAjNwBSl3OfgEHb8FLl2ETAS4aIVrjvp5YcYQXcSuNVG_n45sxVc_HkdhtlB_z6TFuvmBrrr7WHcyCKGgcAJ8DObjHZhrbpqYXQxp2OOIfCh5BiYDJasMLxj52DMhNzQ.m3u8?u=1757123819
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://backup.760515.xyz/logo/CCTV-6 电影.png" group-title="中国-央视",CCTV6
+http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://backup.760515.xyz/logo/CCTV-7 国防军事.png" group-title="中国-央视",CCTV7
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://backup.760515.xyz/logo/CCTV-8 电视剧.png" group-title="中国-央视",CCTV8
+http://222.169.85.8:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://backup.760515.xyz/logo/CCTV-9 纪录.png" group-title="中国-央视",CCTV9
+http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://backup.760515.xyz/logo/CCTV-10 科教.png" group-title="中国-央视",CCTV10
+http://222.169.85.8:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://backup.760515.xyz/logo/CCTV-11 戏曲.png" group-title="中国-央视",CCTV11
+http://120.211.62.180:8000/hls/11/index.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="CCTV12" tvg-logo="https://backup.760515.xyz/logo/CCTV-12 社会与法.png" group-title="中国-央视",CCTV12
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="25" tvg-name="CCTV13" tvg-logo="https://backup.760515.xyz/logo/CCTV-13 新闻.png" group-title="中国-央视",CCTV13
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="CCTV14" tvg-logo="https://backup.760515.xyz/logo/CCTV-14 少儿.png" group-title="中国-央视",CCTV14
+http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://backup.760515.xyz/logo/CCTV-15 音乐.png" group-title="中国-央视",CCTV15
+http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="1864" tvg-name="CCTV16" tvg-logo="https://backup.760515.xyz/logo/CCTV-16 奥林匹克.png" group-title="中国-央视",CCTV16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://backup.760515.xyz/logo/CCTV-17 农业农村.png" group-title="中国-央视",CCTV17
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="886" tvg-name="CCTV4K" group-title="中国-央视",CCTV4K
+http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" group-title="中国-央视",CCTV8K
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" group-title="中国-央视",CCTV风云足球
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" group-title="中国-央视",CCTV高尔夫网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" group-title="中国-央视",CCTV央视台球
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="743_858" tvg-name="CCTV风云剧场" group-title="中国-央视",CCTV风云剧场
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="724_732" tvg-name="CCTV第一剧场" group-title="中国-央视",CCTV第一剧场
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="705_487" tvg-name="CCTV怀旧剧场" group-title="中国-央视",CCTV怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" group-title="中国-央视",CCTV世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" group-title="中国-央视",CCTV女性时尚
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" group-title="中国-央视",CCTV风云音乐
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV卫生健康" tvg-name="CCTV卫生健康" group-title="中国-央视",CCTV卫生健康
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" group-title="中国-央视",CCTV兵器科技
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV文化精品" tvg-name="CCTV文化精品" group-title="中国-央视",CCTV文化精品
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" group-title="中国-央视",CCTV电视指南
+http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" group-title="中国-央视",CGTN
+http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" group-title="中国-央视",CGTN纪录
+http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" group-title="中国-央视",CGTN法语
+http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" group-title="中国-央视",CGTN俄语
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
+#EXTINF:-1 tvg-id="春晚2024" tvg-name="春晚2024" group-title="中国-央视",春晚2024
+https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1 tvg-id="477" tvg-name="延边卫视" tvg-logo="https://backup.760515.xyz/logo/延边1台(朝鲜语综合).png" group-title="中国-卫视",延边卫视
+https://srs.iyb983.cn/video/ybtv1/index.m3u8
+#EXTINF:-1 tvg-id="延边2台" tvg-name="延边2台" tvg-logo="https://backup.760515.xyz/logo/延边2台(汉语综合).png" group-title="中国-卫视",延边2台
+https://srs.iyb983.cn/video/ybtv2/index.m3u8
+#EXTINF:-1 tvg-id="1084" tvg-name="延边1台" tvg-logo="https://backup.760515.xyz/logo/延边卫视.png" group-title="中国-卫视",延边1台
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 tvg-id="261" tvg-name="北京卫视" tvg-logo="https://backup.760515.xyz/logo/北京卫视.png" group-title="中国-卫视",北京卫视
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="北京体育" tvg-name="北京体育" group-title="中国-卫视",北京体育
+http://114.242.62.109:888/hls/22/index.m3u8
+#EXTINF:-1 tvg-id="655" tvg-name="湖南卫视" tvg-logo="https://backup.760515.xyz/logo/湖南卫视.png" group-title="中国-卫视",湖南卫视
+http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="613" tvg-name="浙江卫视" tvg-logo="https://backup.760515.xyz/logo/浙江卫视.png" group-title="中国-卫视",浙江卫视
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://backup.760515.xyz/logo/东方卫视.png" group-title="中国-卫视",东方卫视
+http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://backup.760515.xyz/logo/江苏卫视.png" group-title="中国-卫视",江苏卫视
+http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="380" tvg-name="天津卫视" tvg-logo="https://backup.760515.xyz/logo/天津卫视.png" group-title="中国-卫视",天津卫视
+http://120.211.62.180:8000/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="634" tvg-name="深圳卫视" tvg-logo="https://backup.760515.xyz/logo/深圳卫视.png" group-title="中国-卫视",深圳卫视
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="795" tvg-name="重庆卫视" tvg-logo="https://backup.760515.xyz/logo/重庆卫视.png" group-title="中国-卫视",重庆卫视
+http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="868" tvg-name="黑龙江卫视" tvg-logo="https://backup.760515.xyz/logo/黑龙江卫视.png" group-title="中国-卫视",黑龙江卫视
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="783" tvg-name="辽宁卫视" tvg-logo="https://backup.760515.xyz/logo/辽宁卫视.png" group-title="中国-卫视",辽宁卫视
+http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
+#EXTINF:-1 tvg-id="420" tvg-name="山东卫视" tvg-logo="https://backup.760515.xyz/logo/山东卫视.png" group-title="中国-卫视",山东卫视
+http://222.169.85.8:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 tvg-id="406" tvg-name="安徽卫视" tvg-logo="https://backup.760515.xyz/logo/安徽卫视.png" group-title="中国-卫视",安徽卫视
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="453" tvg-name="广东卫视" tvg-logo="https://backup.760515.xyz/logo/广东卫视.png" group-title="中国-卫视",广东卫视
+http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="470" tvg-name="广西卫视" tvg-logo="https://backup.760515.xyz/logo/广西卫视.png" group-title="中国-卫视",广西卫视
+http://107.150.60.122/live/gxwshd.m3u8
+#EXTINF:-1 tvg-id="362" tvg-name="四川卫视" tvg-logo="https://backup.760515.xyz/logo/四川卫视.png" group-title="中国-卫视",四川卫视
+http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="648" tvg-name="湖北卫视" tvg-logo="https://backup.760515.xyz/logo/湖北卫视.png" group-title="中国-卫视",湖北卫视
+http://222.169.85.8:9901/tsfile/live/0132_1.m3u8
+#EXTINF:-1 tvg-id="573" tvg-name="江西卫视" tvg-logo="https://backup.760515.xyz/logo/江西卫视.png" group-title="中国-卫视",江西卫视
+http://222.169.85.8:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 tvg-id="589" tvg-name="河北卫视" tvg-logo="https://backup.760515.xyz/logo/河北卫视.png" group-title="中国-卫视",河北卫视
+http://120.211.62.180:8000/hls/19/index.m3u8
+#EXTINF:-1 tvg-id="596" tvg-name="河南卫视" tvg-logo="https://backup.760515.xyz/logo/河南卫视.png" group-title="中国-卫视",河南卫视
+http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="625" tvg-name="海南卫视" tvg-logo="https://backup.760515.xyz/logo/海南卫视.png" group-title="中国-卫视",海南卫视
+http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
+#EXTINF:-1 tvg-id="174" tvg-name="东南卫视" tvg-logo="https://backup.760515.xyz/logo/东南卫视.png" group-title="中国-卫视",东南卫视
+http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="770" tvg-name="贵州卫视" tvg-logo="https://backup.760515.xyz/logo/贵州卫视.png" group-title="中国-卫视",贵州卫视
+http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://backup.760515.xyz/logo/吉林卫视.png" group-title="中国-卫视",吉林卫视
+http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="694" tvg-name="甘肃卫视" tvg-logo="https://backup.760515.xyz/logo/甘肃卫视.png" group-title="中国-卫视",甘肃卫视
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="431" tvg-name="山西卫视" tvg-logo="https://backup.760515.xyz/logo/山西卫视.png" group-title="中国-卫视",山西卫视
+http://222.169.85.8:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://backup.760515.xyz/logo/内蒙古卫视.png" group-title="中国-卫视",内蒙古卫视
+http://182.150.23.74:808/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://backup.760515.xyz/logo/陕西卫视.png" group-title="中国-卫视",陕西卫视
+http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="211" tvg-name="云南卫视" tvg-logo="https://backup.760515.xyz/logo/云南卫视.png" group-title="中国-卫视",云南卫视
+http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="399" tvg-name="宁夏卫视" tvg-logo="https://backup.760515.xyz/logo/宁夏卫视.png" group-title="中国-卫视",宁夏卫视
+http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="841" tvg-name="青海卫视" tvg-logo="https://backup.760515.xyz/logo/青海卫视.png" group-title="中国-卫视",青海卫视
+http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="497" tvg-name="新疆卫视" tvg-logo="https://backup.760515.xyz/logo/新疆卫视.png" group-title="中国-卫视",新疆卫视
+http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd%3Bhttp://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
+#EXTINF:-1 tvg-id="154" tvg-name="三沙卫视" tvg-logo="https://backup.760515.xyz/logo/三沙卫视.png" group-title="中国-卫视",三沙卫视
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="https://backup.760515.xyz/logo/兵团卫视.png" group-title="中国-卫视",兵团卫视
+http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
+#EXTINF:-1 tvg-id="252" tvg-name="凤凰中文" tvg-logo="https://backup.760515.xyz/logo/凤凰中文.png" group-title="中国-港台",凤凰中文
+http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="TVB无线新闻" group-title="中国-港台",TVB无线新闻
+http://74.91.26.218:82/live/inews.m3u8
+#EXTINF:-1 tvg-id="TVB翡翠" tvg-name="TVB翡翠" group-title="中国-港台",TVB翡翠
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 tvg-id="TVB明珠" tvg-name="TVB明珠" group-title="中国-港台",TVB明珠
+http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG6N_9Sxh8KQOfU_hyixKd9p3RIjy9Vegh_fQh33K2M2NZraQQ1HZdgnhMv-nAGJ-d4MbxOxzqnvZPnAic8L4i1ZYyIUsjL0Mb_JYCTfOEeYG4a4ZmNxH1PapVrrrSAMArc5rJg-WYPBvhMY1MKjlc6-X5SNSqoDF5Tup-0St4sKsbOeHdQlunrOCJHDiDSYN2nf8xW_Lta052t6RMBoKETw.m3u8?u=1757123819
+#EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" group-title="中国-港台",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" group-title="中国-港台",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" group-title="中国-港台",中视新闻
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" group-title="中国-港台",华视
+http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" group-title="中国-港台",华视新闻
+http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" group-title="中国-港台",民视
+http://74.91.26.218:82/live/ftv.m3u8
+#EXTINF:-1 tvg-id="民视第一" tvg-name="民视第一" group-title="中国-港台",民视第一
+http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" group-title="中国-港台",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
+#EXTINF:-1 tvg-id="东森美洲" tvg-name="东森美洲" group-title="中国-港台",东森美洲
+http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8
+#EXTINF:-1 tvg-id="东森美洲新闻" tvg-name="东森美洲新闻" group-title="中国-港台",东森美洲新闻
+http://38.64.72.148:80/hls/modn/list/2016/chunklist0.m3u8
+#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" group-title="中国-港台",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 tvg-id="东森美洲中国" tvg-name="东森美洲中国" group-title="中国-港台",东森美洲中国
+http://38.64.72.148:80/hls/modn/list/2003/chunklist0.m3u8
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" group-title="中国-港台",纬来体育
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyovE6oGaC1PKnrjeaNxE0NJWRPjFClfaMW4SEVeYtCQbLhiB3WPPepMATAHfUOZlkgWW0vAwIwy5bOIXv7889x_3qi3OgGQuH6k8OeAX6HrFQ7vZhBVtcJo_VATmB9RIaebmQ4oLRHlUr70aUtC19_XJC64D_Vpx6ZcuklPt-WNukf0zYr47g_wBBsnqqxlE6w.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="1446" tvg-name="CNN" group-title="ENGLISH",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CBS News" tvg-name="CBS News" group-title="ENGLISH",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="229" tvg-name="BBC" group-title="ENGLISH",BBC
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" group-title="ENGLISH",Bloomberg
+https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" group-title="ENGLISH",Fox
+https://jmp2.uk/sam-USBA300024TN.m3u8
+#EXTINF:-1 tvg-id="157" tvg-name="NHKWorld" group-title="ENGLISH",NHKWorld
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" group-title="ENGLISH",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 tvg-id="NDTV" tvg-name="NDTV" group-title="ENGLISH",NDTV
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id="234" tvg-name="FashionTV" group-title="ENGLISH",FashionTV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MOVIE1" tvg-name="MOVIE1" group-title="ENGLISH",MOVIE1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
+#EXTINF:-1 tvg-id="MOVIE2" tvg-name="MOVIE2" group-title="ENGLISH",MOVIE2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
+#EXTINF:-1 tvg-id="F1" tvg-name="F1" group-title="ENGLISH",F1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="FAILARMY" tvg-name="FAILARMY" group-title="ENGLISH",FAILARMY
+https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Drybarcomedy" tvg-name="Drybarcomedy" group-title="ENGLISH",Drybarcomedy
+https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8

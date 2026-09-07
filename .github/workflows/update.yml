@@ -1,0 +1,36 @@
+name: Auto Update kr-iptv
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # 每4小时自动同步一次
+  workflow_dispatch:        # 支持在 GitHub 页面手动一键触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run update script
+        run: python3 update.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add kr.m3u kr.xml version.json
+          if git diff --staged --quiet; then
+            echo "No changes detected. Skipping commit."
+          else
+            git commit -m "Auto update kr.m3u and kr.xml [skip ci]"
+            git push
+          fi
