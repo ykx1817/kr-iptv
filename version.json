@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-09-16 09:00:52",
-  "timestamp": 1789549252,
+  "last_updated": "2026-09-16 16:00:29",
+  "timestamp": 1789574429,
   "channel_count": 172,
-  "epg_matched_count": 121,
+  "epg_matched_count": 116,
   "source_json": "https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/main/koreatv.json",
   "source_epg": "https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/main/koreatvEPG.xml"
 }
