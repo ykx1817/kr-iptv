@@ -34,6 +34,23 @@ HEADERS = {
 }
 
 
+# 频道名别名：源数据中的频道名与 EPG 中的 display-name 写法不同时，先映射再匹配
+# 注意：EBS+1/EBS+2 对应 EBS플러스1/2，不要映射成 EBS1/EBS2（那是另外两条流）
+ALIASES = {
+    "KBS드라마": "KBS Drama",
+    "KBS조이": "KBS Joy",
+    "KBS키즈": "KBS KIDS",
+    "MBC에브리원": "MBC every1",
+    "SBS플러스": "SBS Plus",
+    "SBS퍼니": "SBS funE",
+    "SBS골프": "SBS Golf",
+    "SBS스포츠": "SBS Sports",
+    "EBS+1": "EBS플러스1",
+    "EBS+2": "EBS플러스2",
+    "국민방송": "KTV 국민방송",
+}
+
+
 def fetch_url(url: str) -> bytes:
     """拉取远程 URL 数据，带超时和请求头"""
     req = urllib.request.Request(url, headers=HEADERS)
@@ -91,8 +108,9 @@ def generate_m3u(name_to_id: dict):
         group = ch.get("group", "한국-기타").strip()
         headers = ch.get("headers", {})
 
-        # 匹配 EPG channel id
-        tvg_id = name_to_id.get(name) or name_to_id.get(name.lower().replace(" ", "")) or name
+        # 匹配 EPG channel id（先查别名表，再按原名/去空格小写匹配）
+        lookup_name = ALIASES.get(name, name)
+        tvg_id = name_to_id.get(lookup_name) or name_to_id.get(lookup_name.lower().replace(" ", "")) or name
         if tvg_id != name:
             matched_count += 1
 
